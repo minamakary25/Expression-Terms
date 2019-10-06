@@ -1,4 +1,4 @@
-# AAC Expression Toolkit - Licenses
+# AAC Expression Toolkit - License
 Last updated: March 2, 2018
 
 This software contains the following license and notice below: 
